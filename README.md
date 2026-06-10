@@ -108,11 +108,13 @@ The forecasting dashboard leverages historical sales data to predict future perf
 
 ### Sales Analytics Dashboard
 
-![Sales Analytics Dashboard](dashboard-overview.png)
+<img width="713" height="402" alt="image" src="https://github.com/user-attachments/assets/14862ac0-efe0-4f99-b6a1-b57b995f84e0" />
+
 
 ### Sales Forecast Dashboard
 
-![Sales Forecast Dashboard](sales-forecast.png)
+<img width="712" height="395" alt="image" src="https://github.com/user-attachments/assets/53815a34-8371-4cba-86a6-c3f1ea7ad229" />
+
 
 ---
 ---
